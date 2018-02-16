@@ -1,0 +1,19 @@
+{
+  "name": "orrrange-react-node",
+  "version": "1.0.0",
+  "description": "React app using node, express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orrrange/orrrange-react-node.git"
+  },
+  "author": "Rocks Batoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orrrange/orrrange-react-node/issues"
+  },
+  "homepage": "https://github.com/orrrange/orrrange-react-node#readme"
+}
