@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/orrrange/orrrange-react-node/issues"
   },
-  "homepage": "https://github.com/orrrange/orrrange-react-node#readme"
+  "homepage": "https://github.com/orrrange/orrrange-react-node#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
